@@ -126,7 +126,7 @@ class _DetailScreenState extends State<DetailScreen> {
                             blurRadius: 5,
                             offset: const Offset(10, 10),
                             color: Colors.black.withOpacity(0.5),
-                          ),
+                          )
                         ],
                       ),
                       width: 250,
